@@ -11,7 +11,7 @@ pipeline
 		{
 			steps
 			{
-				echo 'Welcome to Jenkins Pipeline'
+				echo 'Welcome to Jenkins Pipeline!'
 			}			
 		}
 		stage('Clean Stage')
